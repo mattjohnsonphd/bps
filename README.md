@@ -1,6 +1,6 @@
 # bps
 
-Most (not all) files for running Bayesian Predictive Synthesis with outcome-dependent weights.
+Files for running Bayesian Predictive Synthesis with outcome-dependent weights. Note that this does not include data or model building.
 
 For the paper, see here:
 https://arxiv.org/abs/1803.01984v1
